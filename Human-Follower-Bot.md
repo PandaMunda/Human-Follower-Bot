@@ -1,7 +1,7 @@
 # Human-Follower-Bot
 It can follow humans or moving objects with the help of HC-SR04 Ultrasonic Sensor, Can be used as a nanny bot for kids or to carry heavy baggage without support.
 
-Its pretty similar to the previous repository so i have reused the setup for this one too
+Its pretty similar to the previous repository so i have reused the setup for this one too and its basically just quite the opposite of the previous one.
 
 First of all get all the required parts:
 
@@ -50,6 +50,11 @@ Congratulations you have built your own Human Following bot using arduino uno.
 After attatching the battery mine was working completely fine as you can see in the video:
 
 
+
+https://user-images.githubusercontent.com/128840537/234920278-14d01c9d-bbe6-47f1-9bd0-3ceea9763cc7.mp4
+
+
+As you can see that the robot was properly following me and even stopped when it got too close to avoid colliding.
 
 If you have any complications with the same you can try asking it in the queries section i will be there to help asap.
 
